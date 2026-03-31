@@ -1,4 +1,4 @@
-# Trending GitHub Finds
+#Trending GitHub Finds
 
 A curated collection of the some interesting repositories I've found via GitHub Trending. I update this repository to regularly keep track of the latest in open-source. 
 
@@ -9,7 +9,7 @@ A curated collection of the some interesting repositories I've found via GitHub 
 | :--- | :--- | :--- | :--- |
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks  | Python | ⭐ 74.9k |
 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent skill that researches any topic across the web - then synthesizes a grounded summary | N/A | ⭐ 16.5k |
-
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI | N/A | ⭐ 33k |
 ---
 
 ## How to Update
