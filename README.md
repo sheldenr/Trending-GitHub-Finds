@@ -23,7 +23,7 @@ python3 update_list.py
 ---
 
 ## Contributing
-Found a cool repository? Open a PR!
+Found a cool repository? Open a PR, I'll probably accept it, I have no reason not to.
 
 ---
 
