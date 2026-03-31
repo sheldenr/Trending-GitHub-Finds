@@ -7,7 +7,7 @@ A curated collection of the some interesting repositories I've found via GitHub 
 ## Repositories
 | Repository | Description | Language | Stats |
 | :--- | :--- | :--- | :--- |
-| [neovim/neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability | ![Vim Script](https://img.shields.io/badge/Vim Script-lightgrey?style=flat-square&logo=vim script&logoColor=white) | ⭐ 97.7k |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks  | Python | ⭐ 74.9k |
 
 ---
 
