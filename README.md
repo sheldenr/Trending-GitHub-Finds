@@ -1,4 +1,4 @@
-#Trending GitHub Finds
+# Trending GitHub Finds
 
 A curated collection of the some interesting repositories I've found via GitHub Trending. I update this repository to regularly keep track of the latest in open-source. 
 
