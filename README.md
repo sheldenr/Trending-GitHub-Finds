@@ -1,6 +1,6 @@
 # Trending GitHub Finds
 
-A curated collection of the most interesting, innovative, and game-changing repositories found on GitHub Trending. This repository is updated regularly to keep track of the latest in open-source.
+A curated collection of the some interesting repositories I've found via GitHub Trending. I update this repository to regularly keep track of the latest in open-source. 
 
 ---
 
