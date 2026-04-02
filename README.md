@@ -12,15 +12,6 @@ A curated collection of the some interesting repositories I've found via GitHub 
 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI | N/A | ⭐ 33k |
 | [tauricresearch/tradingagents](https://github.com/TauricResearch/TradingAgents) | Multi-Agents LLM Financial Trading Framework | N/A | ⭐ 45.7k |
 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | Create stunning demos for free. Open-source | JS | ⭐️ 15.1k |
----
-
-## How to Update
-1. Add a repository to `finds.yml`.
-2. Run `python3 update_list.py`.
-
-```bash
-python3 update_list.py
-```
 
 ---
 
