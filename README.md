@@ -7,6 +7,7 @@ A curated collection of the some interesting repositories I've found via GitHub 
 ## Repositories
 | Repository | Description | Language | Stats |
 | :--- | :--- | :--- | :--- |
+| [fathyb/carbonyl](https://github.com/fathyb/carbonyl) | Chromium running inside your terminal | Rust | ⭐ 18.2k |
 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Make any software agent-ready for OpenClaw, nanobot, Cursor, Claude Code, etc. | Python | ⭐ 28k |
 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Turn any PDF or image document into structured data for your AI | Python | ⭐ 74.8k |
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks  | Python | ⭐ 74.9k |
