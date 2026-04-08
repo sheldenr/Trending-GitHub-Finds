@@ -7,6 +7,7 @@ A curated collection of the some interesting repositories I've found via GitHub 
 ## Repositories
 | Repository | Description | Language | Stats |
 | :--- | :--- | :--- | :--- |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | AI Hedge Fund Team  | Python, TS | ⭐ 50.6k |
 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | Specialized Claude Code workspace for creating long-form, SEO-optimized blog content | Python | ⭐ 3.8k |
 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | Client-side repository knowledge graph creator | TypeScript | ⭐ 23.5k | 
 | [fathyb/carbonyl](https://github.com/fathyb/carbonyl) | Chromium running inside your terminal | Rust | ⭐ 18.2k |
