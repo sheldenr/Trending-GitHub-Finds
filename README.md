@@ -7,7 +7,7 @@ A curated collection of the some interesting repositories I've found via GitHub 
 ## Repositories
 | Repository | Description | Language | Stats |
 | :--- | :--- | :--- | :--- |
- [onyx-dot-app](https://github.com/onyx-dot-app/onyx) | Open-source AI platform | idk | ⭐️ 26.4k |
+ [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open-source AI platform | Python | ⭐️ 26.4k |
 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design language that makes your AI harness better at design | JavaScript | ⭐ 17.7k |
 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | AI Hedge Fund Team  | Python, TS | ⭐ 50.6k |
 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | Specialized Claude Code workspace for creating long-form, SEO-optimized blog content | Python | ⭐ 3.8k |
