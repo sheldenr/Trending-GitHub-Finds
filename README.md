@@ -30,6 +30,7 @@ Content generation, SEO workflows, speech, and document extraction.
 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | Claude Code workspace for long-form SEO content creation | Python | ⭐ 3.8k |
 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Open-source frontier voice AI | N/A | ⭐ 33k |
 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Turn PDFs/images into structured data for AI workflows | Python | ⭐ 74.8k |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl | Python | ⭐ 36.5k |
 
 ## Security and Identity Investigation
 OSINT and identity search tooling.
