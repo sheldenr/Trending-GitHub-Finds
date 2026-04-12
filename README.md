@@ -1,22 +1,6 @@
 # Trending GitHub Finds
 
-A curated, categorized collection of interesting repositories discovered via GitHub Trending.
-
-This repository is organized for straightforward developer handoff: categories are documented directly in this README with clear contribution rules.
-
-## Repository Structure
-
-```text
-.
-├── README.md                  # categorized repository index
-├── CONTRIBUTING.md
-├── CODE_OF_CONDUCT.md
-├── LICENSE
-```
-
-## Categories
-
-This list is grouped into practical categories so developers can quickly find repos by use case.
+A curated collection of the some interesting repositories I've found via GitHub Trending. I plan on updating this repository daily, so, someone keep me in check please. 
 
 ## AI Platforms and Agents
 Open-source AI platforms, frameworks, and agent ecosystems.
