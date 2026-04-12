@@ -1,33 +1,71 @@
 # Trending GitHub Finds
 
-A curated collection of the some interesting repositories I've found via GitHub Trending. I update this repository to regularly keep track of the latest in open-source. 
+A curated, categorized collection of interesting repositories discovered via GitHub Trending.
 
----
+This repository is organized for straightforward developer handoff: categories are documented directly in this README with clear contribution rules.
 
-## Repositories
-| Repository | Description | Language | Stats |
+## Repository Structure
+
+```text
+.
+├── README.md                  # categorized repository index
+├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
+├── LICENSE
+```
+
+## Categories
+
+This list is grouped into practical categories so developers can quickly find repos by use case.
+
+## AI Platforms and Agents
+Open-source AI platforms, frameworks, and agent ecosystems.
+
+| Repository | Description | Language | Stars |
 | :--- | :--- | :--- | :--- |
-| [steipete/wacli](https://github.com/steipete/wacli) | WhatsApp CLI Interface | Golang | ⭐ 878 |
-| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open-source AI platform | Python | ⭐️ 26.4k |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design language that makes your AI harness better at design | JavaScript | ⭐ 17.7k |
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | AI Hedge Fund Team  | Python, TS | ⭐ 50.6k |
-| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | Specialized Claude Code workspace for creating long-form, SEO-optimized blog content | Python | ⭐ 3.8k |
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | Client-side repository knowledge graph creator | TypeScript | ⭐ 23.5k | 
-| [fathyb/carbonyl](https://github.com/fathyb/carbonyl) | Chromium running inside your terminal | Rust | ⭐ 18.2k |
+| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open-source AI platform | Python | ⭐ 26.4k |
 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Make any software agent-ready for OpenClaw, nanobot, Cursor, Claude Code, etc. | Python | ⭐ 28k |
-| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Turn any PDF or image document into structured data for your AI | Python | ⭐ 74.8k |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks  | Python | ⭐ 74.9k |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent skill that researches any topic across the web - then synthesizes a grounded summary | N/A | ⭐ 16.5k |
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI | N/A | ⭐ 33k |
-| [tauricresearch/tradingagents](https://github.com/TauricResearch/TradingAgents) | Multi-Agents LLM Financial Trading Framework | N/A | ⭐ 45.7k |
-| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | Create stunning demos for free. Open-source | JS | ⭐️ 15.1k |
+| [tauricresearch/tradingagents](https://github.com/tauricresearch/tradingagents) | Multi-agent LLM financial trading framework | N/A | ⭐ 45.7k |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | AI hedge fund team | Python, TypeScript | ⭐ 50.6k |
 
----
+## Developer and Terminal Tooling
+CLI tools, coding workflows, developer productivity, and design workflows.
+
+| Repository | Description | Language | Stars |
+| :--- | :--- | :--- | :--- |
+| [steipete/wacli](https://github.com/steipete/wacli) | WhatsApp CLI interface | Go | ⭐ 878 |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Design language that improves AI-assisted frontend output | JavaScript | ⭐ 17.7k |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | Client-side repository knowledge graph creator | TypeScript | ⭐ 23.5k |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Agent skill for grounded web research and summaries | N/A | ⭐ 16.5k |
+
+## Media, Content, and OCR
+Content generation, SEO workflows, speech, and document extraction.
+
+| Repository | Description | Language | Stars |
+| :--- | :--- | :--- | :--- |
+| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | Claude Code workspace for long-form SEO content creation | Python | ⭐ 3.8k |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Open-source frontier voice AI | N/A | ⭐ 33k |
+| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Turn PDFs/images into structured data for AI workflows | Python | ⭐ 74.8k |
+
+## Security and Identity Investigation
+OSINT and identity search tooling.
+
+| Repository | Description | Language | Stars |
+| :--- | :--- | :--- | :--- |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social accounts by username across social networks | Python | ⭐ 74.9k |
+
+## UX, Demo, and Visualization
+Tools for interactive demos, presentation quality, and visual experiences.
+
+| Repository | Description | Language | Stars |
+| :--- | :--- | :--- | :--- |
+| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | Create stunning demos for free (open-source) | JavaScript | ⭐ 15.1k |
+| [fathyb/carbonyl](https://github.com/fathyb/carbonyl) | Chromium running inside your terminal | Rust | ⭐ 18.2k |
 
 ## Contributing
-Found a cool repository? Open a PR, I'll probably accept it, I have no reason not to.
 
----
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for category placement rules and contribution expectations.
 
 ## License
+
 MIT © Shelden Rattray

@@ -1,21 +1,22 @@
-# Contributing to Trending Repo Finds
+# Contributing to Trending GitHub Finds
 
-We love contributions! If you've found a cool repository that you think should be on this list, here's how you can contribute:
+Thanks for helping improve this curated list of useful GitHub repositories.
 
-## How to Suggest a Repository
+## Contribution Workflow
 
-1.  **Fork this repository.**
-2.  **Add your find to `finds.yml`** under the appropriate category.
-    - Format: `- "owner/repo": "A brief note on why it's cool."`
-3.  **Run the update script** to ensure the `README.md` is updated:
-    ```bash
-    python3 update_list.py
-    ```
-4.  **Commit your changes** and open a Pull Request.
+1. Fork and clone the repository.
+2. Add or update entries directly in the appropriate category table in `README.md`.
+3. Open a pull request with a concise summary of what was added or changed.
 
-## Guidelines
-- Ensure the repository is of high quality and relevant to the category.
-- Keep the personal note concise and informative.
-- Check if the repository is already on the list.
+## Category Guidelines
 
-Thank you for helping us curate the best of GitHub!
+- Add repositories to the most relevant existing category.
+- Keep descriptions practical and concise.
+- Avoid duplicate repositories across categories unless there is a strong reason.
+- If you add a new category, keep its scope clear and focused.
+
+## Quality Guidelines
+
+- Prefer repositories with clear utility for developers.
+- Keep repository names exact (`owner/repo`).
+- Keep table formatting consistent (`Repository`, `Description`, `Language`, `Stars`).
