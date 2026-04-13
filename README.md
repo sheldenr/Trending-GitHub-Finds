@@ -27,6 +27,7 @@ Content generation, SEO workflows, speech, and document extraction.
 
 | Repository | Description | Language | Stars |
 | :--- | :--- | :--- | :--- |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | The open-source voice synthesis studio  | TypeScript | ⭐ 15.9k |
 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | Claude Code workspace for long-form SEO content creation | Python | ⭐ 3.8k |
 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Open-source frontier voice AI | N/A | ⭐ 33k |
 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Turn PDFs/images into structured data for AI workflows | Python | ⭐ 74.8k |
