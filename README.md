@@ -11,7 +11,7 @@ Open-source AI platforms, frameworks, and agent ecosystems.
 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Make any software agent-ready for OpenClaw, nanobot, Cursor, Claude Code, etc. | Python | ⭐ 28k |
 | [tauricresearch/tradingagents](https://github.com/tauricresearch/tradingagents) | Multi-agent LLM financial trading framework | N/A | ⭐ 45.7k |
 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | AI hedge fund team | Python, TypeScript | ⭐ 50.6k |
-| [multica-ai/multica](https://github.com/multica-ai/multica) | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. | TypeScript | ⭐ 12.3k |
+| [multica-ai/multica](https://github.com/multica-ai/multica) | The open-source managed agents platform. | TypeScript | ⭐ 12.3k |
 
 ## Developer and Terminal Tooling
 CLI tools, coding workflows, developer productivity, and design workflows.
