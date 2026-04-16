@@ -22,6 +22,7 @@ CLI tools, coding workflows, developer productivity, and design workflows.
 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Design language that improves AI-assisted frontend output | JavaScript | ⭐ 17.7k |
 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | Client-side repository knowledge graph creator | TypeScript | ⭐ 23.5k |
 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Agent skill for grounded web research and summaries | N/A | ⭐ 16.5k |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | ⭐ 423k |
 
 ## Media, Content, and OCR
 Content generation, SEO workflows, speech, and document extraction.
