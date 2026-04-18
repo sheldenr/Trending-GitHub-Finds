@@ -27,6 +27,7 @@ CLI tools, coding workflows, developer productivity, and design workflows.
 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | Client-side repository knowledge graph creator | TypeScript | ⭐ 23.5k |
 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Agent skill for grounded web research and summaries | N/A | ⭐ 16.5k |
 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | ⭐ 423k |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application design for self-hosting | Rust | ⭐ 112k |
 
 ## Media, Content, and OCR
 Content generation, SEO workflows, speech, and document extraction.
