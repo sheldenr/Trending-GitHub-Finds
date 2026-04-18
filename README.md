@@ -2,6 +2,9 @@
 
 A curated collection of the some interesting repositories I've found via GitHub Trending. I plan on updating this repository daily, so, someone keep me in check please. 
 
+# Note
+If there is anything that I've learned from this repo, it is that there trending repositories as of Q1 2026 are all AI devlopment modifications of some sort .-.
+
 ## AI Platforms and Agents
 Open-source AI platforms, frameworks, and agent ecosystems.
 
@@ -12,6 +15,7 @@ Open-source AI platforms, frameworks, and agent ecosystems.
 | [tauricresearch/tradingagents](https://github.com/tauricresearch/tradingagents) | Multi-agent LLM financial trading framework | N/A | ⭐ 45.7k |
 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | AI hedge fund team | Python, TypeScript | ⭐ 50.6k |
 | [multica-ai/multica](https://github.com/multica-ai/multica) | The open-source managed agents platform. | TypeScript | ⭐ 12.3k |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | T3 Code is a minimal web GUI for coding agents (currently Codex and Claude, more coming soon). | TypeScript | ⭐ 9.4k |
 
 ## Developer and Terminal Tooling
 CLI tools, coding workflows, developer productivity, and design workflows.
