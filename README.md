@@ -16,6 +16,7 @@ Open-source AI platforms, frameworks, and agent ecosystems.
 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | AI hedge fund team | Python, TypeScript | ⭐ 50.6k |
 | [multica-ai/multica](https://github.com/multica-ai/multica) | The open-source managed agents platform. | TypeScript | ⭐ 12.3k |
 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | T3 Code is a minimal web GUI for coding agents (currently Codex and Claude, more coming soon). | TypeScript | ⭐ 9.4k |
+| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Financial intelligence platform with CFA-level analytics, AI automation, and unlimited data connectivity. | Python, C++ | ⭐ 5.9k |
 
 ## Developer and Terminal Tooling
 CLI tools, coding workflows, developer productivity, and design workflows.
