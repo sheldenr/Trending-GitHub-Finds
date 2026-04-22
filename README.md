@@ -59,6 +59,13 @@ Tools for interactive demos, presentation quality, and visual experiences.
 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | Create stunning demos for free (open-source) | JavaScript | ⭐ 15.1k |
 | [fathyb/carbonyl](https://github.com/fathyb/carbonyl) | Chromium running inside your terminal | Rust | ⭐ 18.2k |
 
+## Learning
+Educational resources, roadmaps, and guides.
+
+| Repository | Description | Language | Stars |
+| :--- | :--- | :--- | :--- |
+| [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) | Comprehensive roadmap for aspiring Embedded Systems Engineers | Markdown | ⭐ 11k |
+
 ## Contributing
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for category placement rules and contribution expectations.
