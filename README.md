@@ -67,6 +67,13 @@ Educational resources, roadmaps, and guides.
 | :--- | :--- | :--- | :--- |
 | [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) | Comprehensive roadmap for aspiring Embedded Systems Engineers | Markdown | ⭐ 11k |
 
+## Fun
+Fun, quirky, or lifestyle-improving projects.
+
+| Repository | Description | Language | Stars |
+| :--- | :--- | :--- | :--- |
+| [tldev/dorso](https://github.com/tldev/dorso) | A macOS app that blurs your screen when you slouch. | Swift | ⭐ 2.4k |
+
 ## Contributing
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for category placement rules and contribution expectations.
