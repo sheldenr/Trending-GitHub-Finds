@@ -67,6 +67,7 @@ Educational resources, roadmaps, and guides.
 | Repository | Description | Language | Stars |
 | :--- | :--- | :--- | :--- |
 | [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) | Comprehensive roadmap for aspiring Embedded Systems Engineers | Markdown | ⭐ 11k |
+| [arpit-omprakash/100ProjectsOfCode](https://github.com/arpit-omprakash/100ProjectsOfCode) | A list of practice knowledge-building projects. | Markdown | ⭐ 3.6k |
 
 ## Fun
 Fun, quirky, or lifestyle-improving projects.
