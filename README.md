@@ -27,6 +27,7 @@ CLI tools, coding workflows, developer productivity, and design workflows.
 | Repository | Description | Language | Stars |
 | :--- | :--- | :--- | :--- |
 | [steipete/wacli](https://github.com/steipete/wacli) | WhatsApp CLI interface | Go | ⭐ 878 |
+| [steipete/gogcli](https://github.com/steipete/gogcli) | Google Suite CLI: Gmail, GCal, GDrive, GContacts. | Go | ⭐ 7.1k |
 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Design language that improves AI-assisted frontend output | JavaScript | ⭐ 17.7k |
 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | Client-side repository knowledge graph creator | TypeScript | ⭐ 23.5k |
 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Agent skill for grounded web research and summaries | N/A | ⭐ 16.5k |
