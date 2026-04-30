@@ -20,6 +20,7 @@ Open-source AI platforms, frameworks, and agent ecosystems.
 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Financial intelligence platform with CFA-level analytics, AI automation, and unlimited data connectivity. | Python, C++ | ⭐ 5.9k |
 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts. [IN CHINESE; includes translations] | Python | ⭐ 53.5k |
 | [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) | Laminar - open-source observability platform purpose-built for AI agents. YC S24. | TypeScript, Rust | ⭐ 2.8k |
+| [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) | The /llms.txt file, helping language models use your website | N/A | ⭐ 2.4k |
 
 ## Developer and Terminal Tooling
 CLI tools, coding workflows, developer productivity, and design workflows.
