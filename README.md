@@ -36,6 +36,7 @@ CLI tools, coding workflows, developer productivity, and design workflows.
 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | ⭐ 423k |
 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application design for self-hosting | Rust | ⭐ 112k |
 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Use claude-code for free in the terminal | Python | ⭐ 11.4k |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Claude Code skill that cuts 65% of tokens by talking like caveman | Python | ⭐ 53.1k |
 
 ## Media, Content, and OCR
 Content generation, SEO workflows, speech, and document extraction.
