@@ -22,6 +22,7 @@ Open-source AI platforms, frameworks, and agent ecosystems.
 | [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) | Laminar - open-source observability platform purpose-built for AI agents. YC S24. | TypeScript, Rust | ⭐ 2.8k |
 | [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) | The /llms.txt file, helping language models use your website | N/A | ⭐ 2.4k |
 | [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | ⭐ 177k |
+| [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) | Tools for merging pretrained large language models. | Python | ⭐ 7.1k |
 
 ## Developer and Terminal Tooling
 CLI tools, coding workflows, developer productivity, and design workflows.
