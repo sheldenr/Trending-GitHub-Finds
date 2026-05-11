@@ -23,6 +23,7 @@ Open-source AI platforms, frameworks, and agent ecosystems.
 | [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) | The /llms.txt file, helping language models use your website | N/A | ⭐ 2.4k |
 | [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | ⭐ 177k |
 | [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) | Tools for merging pretrained large language models. | Python | ⭐ 7.1k |
+| [virattt/dexter](https://github.com/virattt/dexter) | An autonomous agent for deep financial research | TypeScript | ⭐ 25.2k |
 
 ## Developer and Terminal Tooling
 CLI tools, coding workflows, developer productivity, and design workflows.
@@ -38,6 +39,7 @@ CLI tools, coding workflows, developer productivity, and design workflows.
 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application design for self-hosting | Rust | ⭐ 112k |
 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Use claude-code for free in the terminal | Python | ⭐ 11.4k |
 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Claude Code skill that cuts 65% of tokens by talking like caveman | Python | ⭐ 53.1k |
+| [warpdotdev/warp](https://github.com/warpdotdev/warp) | Warp is an agentic development environment, born out of the terminal. | Rust | ⭐ 57.4k |
 
 ## Media, Content, and OCR
 Content generation, SEO workflows, speech, and document extraction.
@@ -66,6 +68,7 @@ Tools for interactive demos, presentation quality, and visual experiences.
 | :--- | :--- | :--- | :--- |
 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | Create stunning demos for free (open-source) | JavaScript | ⭐ 15.1k |
 | [fathyb/carbonyl](https://github.com/fathyb/carbonyl) | Chromium running inside your terminal | Rust | ⭐ 18.2k |
+| [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) | end to end app store screenshot creation using AI | TypeScript | ⭐ 4.4k |
 
 ## Learning
 Educational resources, roadmaps, and guides.
