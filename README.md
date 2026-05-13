@@ -24,6 +24,7 @@ Open-source AI platforms, frameworks, and agent ecosystems.
 | [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | ⭐ 177k |
 | [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) | Tools for merging pretrained large language models. | Python | ⭐ 7.1k |
 | [virattt/dexter](https://github.com/virattt/dexter) | An autonomous agent for deep financial research | TypeScript | ⭐ 25.2k |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Your Personal AI super intelligence. Private, Simple and extremely powerful. | Rust | ⭐ 4.8k |
 
 ## Developer and Terminal Tooling
 CLI tools, coding workflows, developer productivity, and design workflows.
