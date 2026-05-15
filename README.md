@@ -72,6 +72,7 @@ Tools for interactive demos, presentation quality, and visual experiences.
 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | Create stunning demos for free (open-source) | JavaScript | ⭐ 15.1k |
 | [fathyb/carbonyl](https://github.com/fathyb/carbonyl) | Chromium running inside your terminal | Rust | ⭐ 18.2k |
 | [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) | end to end app store screenshot creation using AI | TypeScript | ⭐ 4.4k |
+| [holoviz/panel](https://github.com/holoviz/panel) | Panel: The powerful data exploration & web app framework for Python | Python | ⭐ 5.7k |
 
 ## Learning
 Educational resources, roadmaps, and guides.
