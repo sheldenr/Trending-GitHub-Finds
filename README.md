@@ -43,6 +43,7 @@ CLI tools, coding workflows, developer productivity, and design workflows.
 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | Warp is an agentic development environment, born out of the terminal. | Rust | ⭐ 57.4k |
 | [orhun/ratty](https://github.com/orhun/ratty) | A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀 | Rust | ⭐ 965 |
 | [unhappychoice/splashboard](https://github.com/unhappychoice/splashboard) | A customizable terminal splash screen with plugin-based data sources. | Rust | ⭐ 100 |
+| [apernet/hysteria](https://github.com/apernet/hysteria) | Hysteria is a powerful, lightning fast and censorship resistant proxy. | Go | ⭐ 20.8k |
 
 ## Media, Content, and OCR
 Content generation, SEO workflows, speech, and document extraction.
