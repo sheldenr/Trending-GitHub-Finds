@@ -25,6 +25,7 @@ Open-source AI platforms, frameworks, and agent ecosystems.
 | [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) | Tools for merging pretrained large language models. | Python | ⭐ 7.1k |
 | [virattt/dexter](https://github.com/virattt/dexter) | An autonomous agent for deep financial research | TypeScript | ⭐ 25.2k |
 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Your Personal AI super intelligence. Private, Simple and extremely powerful. | Rust | ⭐ 4.8k |
+| [dograh-hq/dograh](https://github.com/dograh-hq/dograh) | Open Source Voice Agent Platform | Python, TypeScript | ⭐ 1.5k |
 
 ## Developer and Terminal Tooling
 CLI tools, coding workflows, developer productivity, and design workflows.
