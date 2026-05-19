@@ -58,6 +58,7 @@ Content generation, SEO workflows, speech, and document extraction.
 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Turn PDFs/images into structured data for AI workflows | Python | ⭐ 74.8k |
 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl | Python | ⭐ 36.5k |
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | The API to search, scrape, and interact with the web for AI | TypeScript | ⭐ 110k |
+| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. | Python, TypeScript | ⭐ 16.5k |
 
 ## Security and Identity Investigation
 OSINT and identity search tooling.
