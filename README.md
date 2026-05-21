@@ -46,6 +46,7 @@ CLI tools, coding workflows, developer productivity, and design workflows.
 | [unhappychoice/splashboard](https://github.com/unhappychoice/splashboard) | A customizable terminal splash screen with plugin-based data sources. | Rust | ⭐ 100 |
 | [apernet/hysteria](https://github.com/apernet/hysteria) | Hysteria is a powerful, lightning fast and censorship resistant proxy. | Go | ⭐ 20.8k |
 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Academic Research Skills for Claude Code: research → write → review → revise → finalize | Python | ⭐ 12.3k |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local | TypeScript | ⭐ 10.4k |
 
 ## Media, Content, and OCR
 Content generation, SEO workflows, speech, and document extraction.
