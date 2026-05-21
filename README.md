@@ -68,6 +68,7 @@ OSINT and identity search tooling.
 | :--- | :--- | :--- | :--- |
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social accounts by username across social networks | Python | ⭐ 74.9k |
 | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | Useful tool to track location or mobile number | Python | ⭐ 11.6k |
+| [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) | A comprehensive collection of articles, cheatsheets, and guides covering cybersecurity, penetration testing, and bug bounty hunting. | Markdown | ⭐ 13.8k |
 
 ## UX, Demo, and Visualization
 Tools for interactive demos, presentation quality, and visual experiences.
