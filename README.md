@@ -80,6 +80,13 @@ Tools for interactive demos, presentation quality, and visual experiences.
 | [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) | end to end app store screenshot creation using AI | TypeScript | ⭐ 4.4k |
 | [holoviz/panel](https://github.com/holoviz/panel) | Panel: The powerful data exploration & web app framework for Python | Python | ⭐ 5.7k |
 
+## Business Applications
+Open-source business software, ERP, and productivity suites.
+
+| Repository | Description | Language | Stars |
+| :--- | :--- | :--- | :--- |
+| [odoo/odoo](https://github.com/odoo/odoo) | Open Source Apps To Grow Your Business. | Python, JavaScript | ⭐ 51k |
+
 ## Learning
 Educational resources, roadmaps, and guides.
 
