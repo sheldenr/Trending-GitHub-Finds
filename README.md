@@ -93,6 +93,7 @@ Educational resources, roadmaps, and guides.
 
 | Repository | Description | Language | Stars |
 | :--- | :--- | :--- | :--- |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | A reference manual for people who want to design and build AI systems from first principles. | Python | ⭐ 15.6k |
 | [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) | Comprehensive roadmap for aspiring Embedded Systems Engineers | Markdown | ⭐ 11k |
 | [arpit-omprakash/100ProjectsOfCode](https://github.com/arpit-omprakash/100ProjectsOfCode) | A list of practice knowledge-building projects. | Markdown | ⭐ 3.6k |
 
