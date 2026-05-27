@@ -48,6 +48,7 @@ CLI tools, coding workflows, developer productivity, and design workflows.
 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Academic Research Skills for Claude Code: research → write → review → revise → finalize | Python | ⭐ 12.3k |
 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local | TypeScript | ⭐ 10.4k |
 | [wakujs/waku](https://github.com/wakujs/waku) | The minimal React framework | TypeScript | ⭐ 6.3k |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | The open-source Claude Design alternative. | TypeScript | ⭐ 53.4k |
 
 ## Media, Content, and OCR
 Content generation, SEO workflows, speech, and document extraction.
